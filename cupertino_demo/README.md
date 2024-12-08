@@ -1,6 +1,10 @@
+# DESCRIBTION
+
+Flutter version: 3.3.3
+
 # cupertino_demo
 
-A new Flutter project.
+A Flutter Cupertino project.
 
 ## Getting Started
 
